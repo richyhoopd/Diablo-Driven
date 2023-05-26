@@ -1,0 +1,22 @@
+.container-mt-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-control-mb-4-p-2 {
+    width: 60vw;
+    background-color: #f4f4f4be;
+    margin-bottom: 2em;
+}
+
+.btn-btn-primary {
+    background-color: #090909;
+    color: white;
+    cursor: pointer;
+}

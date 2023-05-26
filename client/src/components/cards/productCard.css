@@ -1,0 +1,23 @@
+.card--hoverable {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+.btn--main--item {
+    color: white;
+    background-color: #090909;
+}
+
+.justify-content-between {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}

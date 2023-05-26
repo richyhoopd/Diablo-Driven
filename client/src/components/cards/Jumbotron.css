@@ -1,0 +1,30 @@
+.container--jumbotron {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0f0f0f;
+    height: 20em;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.fw--bold {
+    color: white;
+    font-size: 2.2em;
+}
+
+.lead {
+    color: white;
+    width: 55%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.yuka {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

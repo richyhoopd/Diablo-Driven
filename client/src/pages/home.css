@@ -1,0 +1,70 @@
+.generalContainerLol {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+.container--fluid {
+    display: flex;
+   flex-direction: column;
+    width: 70%;
+}
+
+
+.col--item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.col--md {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn--filtros {
+    background-color: #090909;
+    color: white;
+    margin-top: 1em;
+}
+
+.col-md-8 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+.row--cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.container--carrito {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-center {
+    font-size: 2em;
+}
+
+.categories--list {
+    display: flex;
+    flex-direction: column;
+}

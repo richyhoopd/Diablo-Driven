@@ -1,0 +1,42 @@
+.container--product--view {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.row--product {
+    width: 70%;
+}
+
+.texto--product--page p {
+    color: #090909;
+}
+
+.texto--product--page {
+    display: flex;
+    flex-direction: row;
+}
+
+.texto--product--page-lol {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.preciooo {
+    font-size: 2em;
+}
+
+.btn-btn-outline-primary-col-card-button {
+    width: 70vw;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    background-color: #090909;
+    color: white;
+    padding: 1em;
+}
+
+.text-center {
+    margin-bottom: 2em;
+}
